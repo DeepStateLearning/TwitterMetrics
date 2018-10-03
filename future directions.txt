@@ -1,0 +1,5 @@
+
+1)  Create a way to add users to the list.  This should be easy enough, but I forgot to save some of the metric data. 
+2) Build a bot that adds users from twitter request, and processes other requests, such as find 10 user near this user 
+3) Figure out why metric doesn't appear to be returning 0 along the diagonal?  
+
